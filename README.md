@@ -23,5 +23,6 @@ There are two version available for the template:
 2. Collaborative: This is an advanced version of the basic template. It allows for team collaboration adn brainstroming by providing sections for taking decision and defining action items. A team can leverage the template to brainstrom ideas for problems for each component and then document them as a design decision in the template itself.
 
 ## Example
+Below is a sample of a design session conducted using ABC4IoT template. 
 
 
