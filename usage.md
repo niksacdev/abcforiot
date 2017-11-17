@@ -10,13 +10,17 @@ The following screens show how to use the template as part of a design and imple
 ## Step 1: Ideate
 The first step is brainstrom current problems, identify issues, and discover ideas. 
 
-![alt text]()
+![Ideate](https://github.com/niksacdev/abcforiot/blob/master/media/ABC4IoT%20-%20Ideate%20Stage.png)
+
+Example:
+![Ideate Example](https://github.com/niksacdev/abcforiot/blob/master/media/ABC4IoT%20-%20Ideate%20Example.png)
+
 ## Step 2: Prioritize
 Once all ideas have been defines, prioritize items that are important and potential issues that can hinder the design realization
 
-![alt text]()
+![Prioritize](https://github.com/niksacdev/abcforiot/blob/master/media/ABC4IoT%20-%20Prioritize%20stage.png)
 
 ## Step 3: Design and Prototype
 Once priotiziation is complete, leverage existing development methodologies to continue your IoT solution development.
-![alt text]()
+![Design](https://github.com/niksacdev/abcforiot/blob/master/media/ABC4IoT%20-%20Design%20Stage.png)
 
