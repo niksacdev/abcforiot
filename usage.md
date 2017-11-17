@@ -2,6 +2,7 @@
 As described earlier, the templates come in two flavours:
 + Basic
 + Collaborative
+Templates are available <a href="https://github.com/niksacdev/abcforiot/tree/master/templates" target="_blank">here</a>
 
 Basic provide a structure for the most common elements required in an IoT solution, it can be used to architect an end-end IoT solution by entering contents to each of the components and finalizing the technology stack to be used for the architecture.
 While the Basic version help provide a blue print for architecting IoT solutions, the Collaborative template goes one step beyond by provind placeholders for decision and action steps, this makes the design process interactive and can be used as a document to brainstrom design ideas.
