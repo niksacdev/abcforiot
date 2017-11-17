@@ -37,7 +37,7 @@ The template are available <a href="https://github.com/niksacdev/abcforiot/tree/
 + Easily record decisions and next steps.
 
 ## Example
-Below is a sample of a design session conducted using ABC4IoT template. See more here to understand process stages.
+Below is a sample of a design session conducted using ABC4IoT template. See more [here](https://github.com/niksacdev/abcforiot/blob/master/usage.md) to understand process stages.
 
 ![Example](https://github.com/niksacdev/abcforiot/blob/master/media/ABC4IoT%20-%20Ideate%20Stage.png)
 
