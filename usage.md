@@ -1,4 +1,4 @@
-#How to use
+# How to use the templates
 As described earlier, the templates come in two flavours:
 + Basic
 + Collaborative
