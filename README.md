@@ -27,7 +27,7 @@ For more information on how to use the template, refer here
 
 ## How to use
 Refer [here](https://github.com/niksacdev/abcforiot/blob/master/usage.md) for more guidance.
-The template are available [here](https://github.com/niksacdev/abcforiot/tree/master/templates)
+The template are available <a href="https://github.com/niksacdev/abcforiot/tree/master/templates" target="_blank">here</a>
 
 ## Benefits
 + Quickly brainstorm IoT design ideas.
