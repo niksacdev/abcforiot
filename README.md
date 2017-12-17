@@ -21,7 +21,7 @@
 
 ## Versions
 There are two version available for the template:
-1. Basic: This is primarily the bare bone tempalte which is for architecting a solution without any decision points or brainstroming discussion. It is targeted towards an individual architect or a team that has already formulated an architecture and want to document their design across the different IoT components.
+1. Basic: This is primarily the bare bone template which is for architecting a solution without documenting any decision points or brainstroming discussion. It is targeted towards an individual architect or a team that has already formulated an architecture and want to document their design across the different IoT components.
 2. Collaborative: This is an advanced version of the basic template. It allows for team collaboration adn brainstroming by providing sections for taking decision and defining action items. A team can leverage the template to brainstrom ideas for problems for each component and then document them as a design decision in the template itself.
 For more information on how to use the template, refer here 
 
